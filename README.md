@@ -72,8 +72,8 @@ Saya adalah pengembang perangkat lunak yang memiliki ketertarikan mendalam pada 
 ### ▹ Statistik GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zyelda&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FE428E&icon_color=FE428E&text_color=A9FEF7" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyelda&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FE428E&text_color=A9FEF7" width="41%" />
+  <img src="https://streak-stats.demolab.com/?user=zyelda&theme=radical&hide_border=true&background=0D1117&ring=FE428E&fire=FE428E&currStreakNum=A9FEF7" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zyelda&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FE428E&icon_color=FE428E&text_color=A9FEF7" alt="GitHub Stats" width="48%" />
 </div>
 
 <br>
